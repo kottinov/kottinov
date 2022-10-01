@@ -4,8 +4,9 @@ I am a Front End Web developer with a passion for making our web experience easi
 
 What is my current stack?
 
-- Vue, Vue CLI, VueX, Vue Router. 
+- Vue, Vue CLI, VueX & Pinia, Vue Router. 
 - React, Redux Toolkit, React Router.
+- Node.JS, Express.JS for building API's
 
 What am I up to?
 
