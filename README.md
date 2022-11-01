@@ -1,6 +1,6 @@
 👋 Hi, I’m Alexander!
 
-I am a Front End Web developer with a passion for making our web experience easier and finding new ways to improve our world and web with my skills and talents.
+I am a Web developer with a passion for making our web experience easier and finding new ways to improve our world and web with my skills and talents.
 
 What is my current stack?
 
