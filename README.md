@@ -6,7 +6,7 @@ What is my current stack?
 
 - Vue, Vue CLI, VueX & Pinia, Vue Router. 
 - React, Redux Toolkit, React Router.
-- Node.JS, Express.JS, Nest along with Java & Spring Boot for building API's
+- Node.JS, Express.JS, Nest.JS along with Java & Spring Boot for building API's
 
 What am I up to?
 
