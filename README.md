@@ -1,7 +1,8 @@
-![image](https://m.media-amazon.com/images/M/MV5BYTZhOWRmODQtYWE3Mi00YWNmLThjNmItNTkxZjNlZjA5MmJjXkEyXkFqcGdeQXVyNDUwMDExNTk@._V1_.jpg)
+![LinkedIn cover - 1 (1)](https://user-images.githubusercontent.com/76010869/220529401-7994369b-ca11-4b82-b9db-e05a53d90dc0.png)
 <hr>
 
 👋 Hi, I’m Alexander!
+
 
 I am a Software Engineer with a passion for making our web experience easier and finding new ways to improve our world and web with my skills and talents.
 
