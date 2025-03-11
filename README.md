@@ -9,7 +9,7 @@ class SoftwareEngineer:
         self.name = "Alexander Constantinov"
         self.role = "Software Engineer"
         self.language_spoken = ["ru_RU", "ro_RO", "fi_FI", "en_US"]
-        self.languages_used = ["TypeScript", "JavaScript", "Java", "Python"]
+        self.languages_used = ["TypeScript", "Rust", "Go", "Java"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting")
